@@ -8,6 +8,6 @@ Tools:
 Seaborn\
 Mathplotlib\
 Numpy\
-Python3\
+Python3
 
 ![](FREQUENCY%20TABLE.png)
