@@ -1,2 +1,2 @@
-# Capstone-Project-
+# Capstone-Project
 Data analysis and Visualization
