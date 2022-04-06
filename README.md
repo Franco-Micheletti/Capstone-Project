@@ -5,12 +5,9 @@ Capstone Project i did from "2022 Python for Machine Learning & Data Science Mas
 
 Tools:
 
-seaborn
-
-mathplotlib
-
-numpy
-
-python3
+Seaborn 
+Mathplotlib 
+Numpy 
+Python3
 
 ![](FREQUENCY%20TABLE.png)
