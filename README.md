@@ -12,3 +12,8 @@ Python3
 
 ![](1.png)
 ![](2.png)
+
+##Normalized scores across all platforms for these movies
+![](3.png)
+##Visualizing the distribution of ratings across all sites for the top 10 worst movies.
+![](4.png)
