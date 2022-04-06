@@ -10,4 +10,4 @@ Mathplotlib\
 Numpy\
 Python3
 
-![](FREQUENCY%20TABLE.png)
+![](INTRO.png)
