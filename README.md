@@ -10,4 +10,5 @@ Mathplotlib\
 Numpy\
 Python3
 
-![](INTRO.png)
+![](1.png)
+![](2.png)
